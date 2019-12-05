@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"natural": "^0.6.3",
+		"pos": "^0.4.2"
+	}
+}
